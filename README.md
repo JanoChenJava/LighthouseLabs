@@ -1,3 +1,3 @@
 # LighthouseLabs
 javascript workshop
-A chat windows 
+A chat window
